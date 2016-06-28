@@ -11,8 +11,8 @@
     </parent>
 
     <name>iGov-UA WF-Service-KOATUU</name> 
-    <artifactId>wf-region</artifactId>
-    <version>${igov.wf-region.version}</version>
+    <artifactId>wf-koatuu</artifactId>
+    <version>${igov.wf-koatuu.version}</version>
     <packaging>war</packaging>
 
     <properties>
